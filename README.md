@@ -1,5 +1,5 @@
 # CRUD-Operation
 
-## demo (CustomerLog)
+## demo (Customer Log)
 
 ## springapp (Library Management)
