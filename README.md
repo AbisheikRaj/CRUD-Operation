@@ -1,5 +1,5 @@
 # CRUD-Operation
 
-## Demo Project (CustomerLog)
+## demo (CustomerLog)
 
-## SpringApp Project (Library Management)
+## springapp (Library Management)
